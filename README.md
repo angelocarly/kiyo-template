@@ -20,3 +20,6 @@ Or use a specific git commit:
 ```toml
 kiyo = { git = "https://github.com/angelocarly/kiyo", rev = "8eb08954530a9a947b644828062d7d03a10218b" }
 ```
+
+## Extra notes
+I recommend to rename your project and rewrite this `README.md`! Describing your intentions makes it not only clear for others to understand your code, but also for yourself. 
