@@ -5,6 +5,8 @@ It is a Rust project setup with Kiyo as a dependency, and contains the necessary
 
 Use the top-right button "Use this template" to get started.
 
+Once cloned you can run kiyo using `cargo run`. Make sure to have the [Vulkan SDK](https://vulkan.lunarg.com) installed.
+
 ## Versions
 You can set the version of Kiyo by editing `Cargo.toml` and specifying a specific release version published on [crates.io](https://crates.io/crates/kiyo/).
 ```toml
