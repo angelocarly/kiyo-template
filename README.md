@@ -3,6 +3,8 @@
 This repository acts as a template to easily get started using [Kiyo](https://github.com/angelocarly/kiyo).  
 It is a Rust project setup with Kiyo as a dependency, and contains the necessary code to run a simple shader.
 
+Use the top-right button "Use this template" to get started.
+
 ## Versions
 You can set the version of Kiyo by editing `Cargo.toml` and specifying a specific release version published on [crates.io](https://crates.io/crates/kiyo/).
 ```toml
