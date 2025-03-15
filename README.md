@@ -18,5 +18,5 @@ If you want to pull the latest git version, you would use `cargo update`
 
 Or use a specific git commit:
 ```toml
-kiyo = { git = "https://github.com/angelocarly/kiyo", rev = "=8eb08954530a9a947b644828062d7d03a10218b" }
+kiyo = { git = "https://github.com/angelocarly/kiyo", rev = "8eb08954530a9a947b644828062d7d03a10218b" }
 ```
