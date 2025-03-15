@@ -21,7 +21,7 @@ Or use a specific git commit:
 kiyo = { git = "https://github.com/angelocarly/kiyo", rev = "8eb08954530a9a947b644828062d7d03a10218b" }
 ```
 
-Please note that updating your kiyo version cause some code to break. Refer back to the original template repository to always get a working example.
+Please note that updating your kiyo version might cause some code to break. Refer back to the original template repository to always get a working example.
 
 ## Extra notes
-I recommend to rename your project and rewrite this `README.md`! Describing your intentions makes it not only clear for others to understand your code, but also for yourself. 
+I recommend to rename your project and rewrite this `README.md`! Describing your intentions not only makes it clear for others to understand your project, but also for yourself. 
